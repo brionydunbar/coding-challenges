@@ -1,0 +1,358 @@
+Coderbyte challenges:
+alphabet_soup - Put a string into alphabetical order
+
+approaching_fibonacci - Find the smallest number needed to make the total of an array add to a fibonacci number
+
+arith_geo_2 - Determine if a sequence of numbers is arithmetic, geometric, or neither
+
+array_addition - Identify if any combinations in an array will add to the largest number in the array
+
+array_min_jumps - Determine the minimum number of jumps to traverse an array (using binary search)
+
+binary_converter - Convert a given binary number to decimal form
+
+binary_search_tree_LCA - Take array and determine the LCA of a BST
+
+binary_tree_LCA - Take an array and determine the LCA of a BT
+
+bipartite_matching - Graph - Determine if a graph is bipartite
+
+bitmap_holes - Determine how many holes are in a matrix
+
+boggle_solver - Play boggle with an array of strings
+
+bracket_combinations - Return the number of valid combinations that can be formed with num pairs of parentheses
+
+bracket_matcher - Return 1 if the brackets are correctly matched and each one is accounted for
+
+caesar_cipher - Perform a caesar cipher on a given string
+
+character_removal - Determine min num of chars that can be removed from a word so it matches a word from a dict
+
+charlie_the_dog - Return the least amount of steps for a dog to reach each piece of food and return home
+
+city_traffic - Graph - Determine the max traffic at a single node in a graph
+
+coin_determiner - Given a number, return the least number of coins that when added equal the input integer
+
+consecutive - Take array of ints and return minimum number of ints needed to make the array consecutive from lowest to highest
+
+counting_anagrams - Determine how many anagrams exist in a string
+
+counting_minutes - Return the total number of minutes between two times
+
+dash_insert - Insert a - between two odds next to each other in a string, and a * between two evens (not counting 0)
+
+distinct_list - Take an array and determine the total number of duplicate entries
+
+eight_queens - Determine if all queens are placed in way where none attacking each other
+
+even_pairs - Check if a pair of adjacent even numbers exists in string
+
+farthest_nodes - Graphs - find the farthest distance between nodes
+
+fibonacci_checker - Check if a given number is a fibonacci number
+
+find_intersection - Given 2 arrays, find numbers in both and return as string
+
+first_factorial - Find the first factorial of a number
+
+first_reverse - Reverse a string
+
+food_distribution - Minimise the hunger difference between each pair of people in the array using available sandwiches
+
+formatted_division - Format a division to 4 d.p. including commas for thousands
+
+formatted_number - Return true if a string is a valid number with only digits and properly places decimals and commas
+
+greatest_common_factor - Find the GCF of two given numbers
+
+hamiltonian_path - Determine if a set of vertices form a hamiltonian path
+
+histogram_area - Determine largest area under a bar graph
+
+k_unique_characters - Take string and find the longest substring that contains k unique chars
+
+largest_four - Add the largest four numbers in a list
+
+largest_row_column - Take a 2D matrix and determine largest number that can be found by adding up three digits in matrix within same path without reusing elements
+
+letter_count - Return the first word in a string with the greatest number of repeated errors
+
+letter_count_I - As above??
+
+linear_congruence - Take a string linear congruence equation, solve for x, return number of solutions to x
+
+logit_regression - Return an output of two numbers for an updated a and b following logistic regression
+
+longest_consecutive - Return length of longest consecutive subsequence of an array of positive integers
+
+longest_increasing_sequence - Find the longest increasing substring within a string of integers
+
+longest_matrix_path - Find longest increasing path of distinct integers
+
+longest_word - Find the longest word in a string
+
+look_say_sequence - Return the next number in a look say sequence
+
+LRU_cache - Take an array and follow a sequence for caching items
+
+matching_characters - Take a string and determine largest number of unique characters that exist between a pair of matching letters
+
+matrix_chains - Have function read array matrices and determine least number of multiplications possible after multiplying all matrices
+
+matrix_path - Take 2D matrix array and determine if a top left to bottom right path exists
+
+matrix_spiral - Take an array of strings representing a 2D matrix and print in a clockwise spiral order
+
+max_subarray - Take an array of numbers and return the largest sum that can be formed by any contiguous subarray
+
+mean_mode - Take an array and determine if the mean equals the mode
+
+min_window_substring - Determine the smallest substring of N that contains all the characters in K
+
+missing_digit - Take an equation and determine the missing number x
+
+missing_digit_2 - Take an equation and determine the two missing numbers ?
+
+most_free_time - Find the longest amount of free time between start of first event and end of last event
+
+multiple_brackets - Check and count matched brackets in a string
+
+nearest_smaller_values - Search previous elements in an array for smaller values
+
+nonrepeating_character - Take a string and find first nonrepeating character
+
+number_encoding - Take str parameter and encode the message
+
+number_search - Take a string, add the numbers and divide by the total number of letters
+
+off_binary - Read array of strings and determine how many digits in binary number need to be changed to represent decimal number correctly
+
+off_line_minimum - Return correct subset of a string based on a set of rules
+
+overlapping_rectangles - Find the number of times the area overlap between two rectangles will fit into area of first rectangle
+
+pair_searching - Find the least number of multiplications to find an adjacent pair of duplicate integers
+
+palindromic_substring - Take string and identify longest palindromic substring
+
+pattern_chaser - Return the longest pattern in a string
+
+palindrome - Return "true" if a given string is a palindrome (no punc)
+
+palindrome_two - Return "true" is a given string is a palindrome
+
+permutation_step - Return the next number greater than num using the same digits
+
+plus_minus - Read a number and determine whether it's possible to separate digits with + or - to make 0
+
+preorder_traversal - Return the pre-order traversal of a tree
+
+prime_checker - Check if any arrangement of a number comes out as a prime number
+
+prime_mover - Return the nth prime number
+
+prime_time - Take a number and return true if it is a prime number
+
+primes -  Take a number and determine if it is a prime
+
+question_marks - Check if there are exactly 3 question marks between every pair of two numbers that add up to 10
+
+remove_brackets - Take a string of brackets and determine the number that need to be removed to create string of correctly matched brackets
+
+run_length - Take a string and return a compressed version of the string using the Run-length encoding algorithm
+
+scale_balancing - Check if a scale can be balanced using the least amount of weights from a list
+
+seating_students - Take an array representing classroom desks and return num of ways students can be seated
+
+second_great_low - take array and return second lowest and greatest numbers
+
+serial_number - Validate if a serial number meets certain conditions
+
+shortest_path - Graphs - find the shortest path
+
+simple_mode - Find first mode in an array
+
+simple_password - Take a string password and determine if it passes as valid
+
+step_walking - Return the number of combinations to climb num steps (fib variation)
+
+stock_picker - Find the max profit from an array of stocks
+
+string_calculate - Evaluate mathematical expression in a string
+
+string_expression - Convert a string expression into an equation
+
+string_periods - Determine if there is a substring K that can be repeated N > 1 times to produce input string
+
+string_reduction - Take a string and return the smallest number you get though a given reduction method
+
+string_scramble - Return true if letters in a string can be rearranged to match a second string
+
+string_zigzag - Take a string and number of rows, return word formed by combining chars as you iterate each row
+
+sudoku_quadrant_checker - Check if a sudoku board is legal
+
+switch_sort - Take an array and determine what the fewest number of steps is to sort from least to greatest
+
+swap_2 - Take a string and swap case, swap numbers if letters between them
+
+symmetric_tree - Check if a binary tree is symmetric
+
+ternary_converter - Take a number and convert to ternary representation
+
+third_greatest - Take an array of strings and determine the third largest word
+
+three_sum - Determine if any three distinct nums in array can sum to first element in array
+
+three_points - Read array of strings and create a line formed by first two points that moves in direction of second and that stretches in both directions, determine what side of the line point 3 is on
+
+threefive_multiples - Return the total of all the multiples of 3 and 5 below a given number
+
+transitivity_relations - Graph - Determine if a graph is transitive
+
+trapping_water - Return the most water that can be trapped between two buildings
+
+tree_constructor - Check if a valid binary tree can be formed
+
+tree_constructor_2 - Check if a valid binary tree can be formed (all conditions)
+
+triple_double - Check if num 1 contains a triple num, with the same num as a double in num2
+
+two_sum - Identify if any two pairs of numbers in an array add up to the first
+
+username_validation - Validate if a username meets certain conditions
+
+vertex_covering - Graph - Check if vertices in a graph cover every edge
+
+wave_sorting - Identify if an array of nums can be sorted in a wave pattern
+
+weighted_path - Graphs - find the shortest weighted path
+
+word_split - Check if a string can be split into two substrings that match entries in a second comma separated string
+
+
+Other challenges:
+add_strings - Given two non-negative ints as strings, return the sum
+
+additive_inverse - Given a set of numbers, return the additive inverse of each
+
+array_combinations - Return the number of unique arrays that can be formed by picking exactly one element from each subarray
+
+array_exchange - Exchange the elements of two arrays in-place in a way that their new content is also reversed
+
+average_word_length - Given a sentence, return the average word length
+
+cannons_ready - Check if all shipmates ready
+
+check_for_lowercase_vowels - Check for character cod for vowel in list of ints, if so replace with char
+
+convert_int_to_reverse_array - Convert an int to an array and revers
+
+count_monkeys - Print from 1 to number n
+
+detect_pangram - Detect if all letters in alphabet are in a string
+
+distinct_words - Take words, count how many distinct in total, return the count for each distinct word
+
+equation_reversal - Reverse an equation whilst preserving any numbers or letter groups
+
+even_or_odd - Determine if an int is odd or even
+
+fibonacci_even_sum - Find the fibonacci values within n and add the even values
+
+fill_in_blanks - Given an array with None values fill in these with the most recent non-None value
+
+find_angle_mbc - Find the midpoint angle MBC in a triangle given lengths AB and BC
+
+find_duplicate - Return the duplicated int from a list
+
+find_odd_integer - Given a list of integers, find the one that appears an odd number of times
+
+find_unique_number - Find the unique number in an array
+
+find_unique_string - Given a list of strings, find the one that contains different letters to the rest
+
+first_unique_character = Given a string, return the first non-repeating character
+
+get_ascii - Get the ascii number of a char
+
+if_else_weird_number - Return weird or not weird depending on conditions
+
+leap_year - Determine if a given year is a leap year
+
+make_upper_case - Convert a string to upper case
+
+math_challenge - Count the number of unique connections in a fully connected network
+
+merge_tools - Split a string into substrings of a given length, remove duplicates
+
+monotonic_array - Given an array of integers, determine whether the array is monotonic or not
+
+move_zeroes - Given an array, move all zeroes to the end
+
+odd_or_even - Determine if a number is odd or even
+
+OOP_class_challenge - Write methods within classes to return desired outputs
+
+password_checker - Validate if a password meets certain conditions
+
+phone_number_validator - Validate if a phone number meets certain conditions
+
+photo_challenge - Return True if two groups of students can be sat with shorter in front
+
+pokemon_damage_calculator - Calculate the damage a move of a given value will do
+
+range_function - A range generator function that takes three parameters
+
+remove_duplicates_int - Removes duplicate ints from a list
+
+remove_duplicates_table - Given a table, return same keys but with no duplicate values
+
+remove_exclamation_marks - Remove exclamation marks from a string
+
+reverse_integer - Given an integer, return with reversed digits
+
+sentence_builder - Given an array of parts, return a string sentence
+
+simple_multiplication - Multiply by 8 if even, 9 if odd
+
+simple_password - Validate if a password meets certain conditions
+
+simple_time_difference - Find the biggest difference between an array of times
+
+sorting_alpha_digit - Sort a string to meet certain requirements
+
+split_string_into_char_pairs - Split a string into pairs of two characters
+
+squared_integers - Square an int
+
+sum_arrays - Sum the numbers in an array
+
+sum_leaf_nodes - Find the sum of leaf nodes in a binary tree
+
+tandem_speed - Find the highest possible speed between two teams of cyclists
+
+ten_minute_walk - Return true for a valid walk
+
+three_largest_numbers - Take an array and return an array of the three largest integers
+
+time_delta_difference - Given two dates, find the difference in seconds
+
+top_three_chars - Given a string, return the top three chars in a certain order
+
+tournament_winner - Determine the winner of a tournament from two arrays
+
+upside_down_numbers - Given a range, count how many can be upside down numbers
+
+validate_credit_card_number - Validate if a credit card meets certain conditions
+
+validate_subsequence - Given two arrays, validate if the second is a subsequence of the first
+
+vowel_encoder - Encode the vowels in a string
+
+word_frequency - Return the most frequent word in a text
+
+write_out_numbers - Take an int and write out in words
